@@ -2,7 +2,7 @@
 
 ### 💡 About Me
 - B.S. in Computer Science, ULM  
-- Active **Secretary of ACM**  
+- Active **Vice President of ACM**  
 - Passionate about **AI, Machine Learning, Web Development, and Blockchain**  
 - Focused on building **real-world projects** and contributing to open source  
 
